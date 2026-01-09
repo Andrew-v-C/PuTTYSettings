@@ -1,4 +1,25 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
+; Window columns and rows
+"TermWidth"=dword:00000088
+"TermHeight"=dword:0000001d
+; Don't display scrollbar
+"ScrollBar"=dword:00000000
+; Cursor appearance
+"CurType"=dword:00000002
+"BlinkCur"=dword:00000001
+; Font
+"Font"="JetBrainsMonoNL NF"
+"FontCharSet"=dword:00000000
+"FontHeight"=dword:0000000a
+"FontIsBold"=dword:00000000
+; Hide mouse pointer when typing
+"HideMousePtr"=dword:00000000
+; Window padding
+"WindowBorder"=dword:00000008
+; Don't warn before closing widow
+"WarnOnClose"=dword:00000000
+; Colour options
+"BoldAsColour"=dword:00000002
 
